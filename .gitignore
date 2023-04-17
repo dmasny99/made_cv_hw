@@ -1,0 +1,11 @@
+**/*.pth
+**/*.zip
+**/*.csv
+wandb/
+weights/
+.ipynb_checkpoints
+train/
+test/
+**/*.csv
+**/*.txt
+
